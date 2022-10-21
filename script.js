@@ -190,11 +190,11 @@ function getPreviouPalindrome(date) {
   return [count, previousDate];
 }
 
-let date = {
-  day: 02,
-  month: 02,
-  year: 2020,
-};
+// let date = {
+//   day: 02,
+//   month: 02,
+//   year: 2020,
+// };
 // console.log(date);
 // console.log(checkPalindrome(date));
 // console.log(getNextPalindrome(date));
